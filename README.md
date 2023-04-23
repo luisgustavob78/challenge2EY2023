@@ -6,7 +6,7 @@ This repository contains the solution built for the level 2 challenge of "EY Ope
 Before running the notebook with the model training, follow the steps:
 
 ### 1. Clone this repository:
-``` git clone url ```.
+``` git clone https://github.com/luisgustavob78/challenge2EY2023 ```.
 
 ### 2, Install requiremets
 Run ```pip install requirements.txt```.
